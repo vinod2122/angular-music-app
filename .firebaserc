@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "locknoll-demo",
+    "angularmusicapp": "locknoll-demo"
+  },
+  "targets": {},
+  "etags": {}
+}
